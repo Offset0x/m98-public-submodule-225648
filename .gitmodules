@@ -1,0 +1,3 @@
+[submodule "public-sub"]
+	path = public-sub
+	url = https://github.com/octocat/Hello-World.git

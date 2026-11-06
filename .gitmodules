@@ -1,0 +1,3 @@
+[submodule "test-sub"]
+	path = test-sub
+	url = https://test-submodule-01.cqvfipoemrjwr6nq.oast.fun/repo.git

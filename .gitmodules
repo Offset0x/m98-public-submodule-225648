@@ -1,0 +1,3 @@
+[submodule "private-sub"]
+	path = private-sub
+	url = https://github.com/Offset0x/m98-private-fixture-223303.git
